@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/BabyfaceDeveloper/Planets-Project/issues"
   },
-  "homepage": "https://github.com/BabyfaceDeveloper/Planets-Project#readme"
+  "homepage": "https://github.com/BabyfaceDeveloper/Planets-Project#readme",
+  "dependencies": {
+    "csv-parse": "^5.3.3"
+  }
 }
