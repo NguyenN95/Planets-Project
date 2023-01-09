@@ -4,7 +4,7 @@
 
 ## Description
 
-Given data of all the planets ([NASA Kepler data](https://exoplanetarchive.ipac.caltech.edu/docs/data.html)), how many habitable planets can we find in this universe ([metrics to know which planets nearly the same as Earth](https://www.centauri-dreams.org/2015/01/30/a-review-of-the-best-habitable-planet-candidates/))
+Given data of all the planets ([NASA Kepler data](https://exoplanetarchive.ipac.caltech.edu/docs/data.html)), how many habitable planets can we find in this universe ([metrics to know which planets nearly the same as Earth](https://www.centauri-dreams.org/2015/01/30/a-review-of-the-best-habitable-planet-candidates/), `WARNING this is not really perfect metrics to calculate`)
 
 > ### [Are we alone in the universe?](https://exoplanets.nasa.gov/search-for-life/can-we-find-life/)
 
