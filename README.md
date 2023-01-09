@@ -1,6 +1,6 @@
 # Habitable planets
 
-> Find out how many habitable planets on this universe
+> Find out how many habitable planets in this universe
 
 ## Description
 
